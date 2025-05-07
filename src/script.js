@@ -55,3 +55,6 @@ function updateBalance() {
 
 incomeBtn.addEventListener("click", () => addTransaction("income"));
 expenseBtn.addEventListener("click", () => addTransaction("expense"));
+
+incomeBtn.addEventListener("click", () => addTransaction("income"));
+expenseBtn.addEventListener("click", () => addTransaction("expense"));
